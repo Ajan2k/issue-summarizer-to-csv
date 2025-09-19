@@ -1,0 +1,6 @@
+hf_xet
+pandas 
+numpy
+scikit-learn
+vaderSentiment
+groq
