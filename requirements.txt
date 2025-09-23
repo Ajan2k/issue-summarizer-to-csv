@@ -5,3 +5,4 @@ scikit-learn
 vaderSentiment
 groq
 gunicorn
+flask
